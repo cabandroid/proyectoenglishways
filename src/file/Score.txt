@@ -1,0 +1,32 @@
+
+ NickName: Sebitas 
+ Level 1 :50
+ Level 2 :50
+ Level 3 :50
+ NickName: Cuaran 
+ Level 1 :-50
+ Level 2 :50
+ Level 3 :50
+ NickName: David 
+ Level 1 :50
+ Level 2 :50
+ Level 3 :50
+ NickName: otro 
+ Level 1 :50
+ NickName: eh 
+ Level 1 :50
+ NickName: Lucas 
+ Level 1 :50
+ Level 2 :50
+ NickName: camilo 
+ Level 1 :50
+ Level 2 :50
+ Level 3 :-50
+ NickName: guarinboss 
+ Level 1 :50
+ NickName: willyrex 
+ Level 1 :50
+ Level 1 :50
+ Level 2 :-50
+ Level 3 :50
+ NickName: cabandroid 
